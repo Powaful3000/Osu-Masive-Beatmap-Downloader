@@ -1,5 +1,5 @@
 /*
-    [Osu! Masive Beatmap Downloader]
+    [Osu! Massive Beatmap Downloader]
     Copyright (C) 2016  NewKey
 
     This program is free software: you can redistribute it and/or modify
@@ -36,7 +36,7 @@ public class Main {
    System.out.println("Unable to load Windows look and feel");
   }
   JFrame frame = new JFrame();
-  frame.setTitle("Osu! Masive Beatmap Downloader");
+  frame.setTitle("Osu! Massive Beatmap Downloader");
   frame.setLocationRelativeTo(null);
   frame.pack();
   frame.setVisible(true);
